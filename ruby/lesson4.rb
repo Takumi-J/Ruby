@@ -1,0 +1,2 @@
+name = "jitsu"
+puts name
