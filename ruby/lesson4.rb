@@ -1,2 +1,0 @@
-name = "jitsu"
-puts name
